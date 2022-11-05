@@ -1,3 +1,1 @@
-my initial content
-This is my main branch content
-This is my feature branch changes
+This is initial content
